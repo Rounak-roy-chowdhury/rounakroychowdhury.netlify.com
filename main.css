@@ -1,0 +1,23 @@
+.profile-pic {
+    box-shadow: black 2px 5px 5px;
+    height: 210px;
+    width: 160px;
+    border-radius: inherit;
+}
+
+.site-header {
+    background-position: center;
+    background-color: antiquewhite;
+    color: coral;
+    height: 100%;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    padding: 30px;
+    margin: 0px;
+}
